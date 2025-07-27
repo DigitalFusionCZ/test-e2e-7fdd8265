@@ -1,0 +1,30 @@
+{
+  "generated_at": "2025-07-27T10:37:31.897Z",
+  "total_images": 3,
+  "images": [
+    {
+      "original_url": "https://www.vseprostavby.cz/wp-content/uploads/2020/08/BILA-LOGO-1024x609.png",
+      "file_path": "public/images/logo-house-outline.png",
+      "file_name": "logo-house-outline.png",
+      "description": "A simplified outline of a house in green lines with lighter green accents on the door and windows, representing the company's focus on construction.",
+      "suggested_usage": "Use as the primary company logo in headers and footers.",
+      "size_bytes": 116158
+    },
+    {
+      "original_url": "https://www.vseprostavby.cz/wp-content/uploads/2020/08/TANVALD2-scaled-1-1024x576.jpg",
+      "file_path": "public/images/project-tanvald-exterior-after.jpg",
+      "file_name": "project-tanvald-exterior-after.jpg",
+      "description": "A wide shot of a renovated mountain house with a dark gabled roof and light-colored walls, surrounded by green grass and a forest in the background, showcasing a completed construction project.",
+      "suggested_usage": "Feature image for a completed project case study or a 'Reference' section.",
+      "size_bytes": 167094
+    },
+    {
+      "original_url": "https://www.vseprostavby.cz/wp-content/uploads/2021/03/RDPO.jpg",
+      "file_path": "public/images/project-house-renovation-exterior.jpg",
+      "file_name": "project-house-renovation-exterior.jpg",
+      "description": "A modern two-story house with a dark tile roof and light-colored facade, with two cars parked on the street in front of it, reflecting recent renovation work.",
+      "suggested_usage": "Display in a project gallery, services section, or as a supporting visual for renovation services.",
+      "size_bytes": 558411
+    }
+  ]
+}
